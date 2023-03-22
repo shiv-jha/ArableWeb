@@ -1,0 +1,15 @@
+{
+  "pt": {
+  	"Name *":"Nome *" 
+  	"Email Address":"Endereço de e-mail"
+  	"Username *":"Nome de usuário *"
+  	"Phone Number":"Telefone"
+  	"API Key":"Chave API"
+  	"Current Password":"Senha atual"
+  	"New Password":"Nova senha"
+  	"Confirm Password":"Confirme sua senha"
+  	"Language":"Idioma"
+  	"Units":"Unidades"
+  	"Agreements & Policies":"Acordos e políticas"
+  }
+}

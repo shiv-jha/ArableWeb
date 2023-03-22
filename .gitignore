@@ -1,0 +1,6 @@
+/target/
+/.idea/
+/reporting/
+.classpath
+.project
+/ArableWeb.iml

@@ -1,0 +1,17 @@
+{
+  "mapping": {
+  	"Temperature":"°F" 
+  	"Humidity":"%"
+	"Solar Radiation":"W/m²"
+	"Growing Degree Days":"GDD (°F)"
+	"Daily ETc":"in"
+	"Chlorophyll Index":"CI"
+	"NDVI":"NDVI"
+	"Precipitation (Since 12AM)":"in"
+	"Precipitation (Last 10 Days)":"in"
+	"ET (Last 10 Days)":"in"
+	"Wind":"mps"
+	"Soil Moisture":"in/ft"
+  }
+}
+
